@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CBU Exchange</string>
+    <string name="language">рус</string>
+    <string name="tab1">Курс валют</string>
+    <string name="tab2">Избранные</string>
+    <string name="dialog_input_text">Напишите здесь</string>
+    <string name="dialog_text2">Узбекский сум</string>
+    <string name="select_language">Выберите язык</string>
+</resources>

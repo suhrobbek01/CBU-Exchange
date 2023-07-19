@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+//dark mode
+    <style name="RoundedTabLayoutStyle" parent="Widget.Design.TabLayout">
+
+        <item name="tabSelectedTextColor">#518ACA</item>
+        <item name="tabTextColor">#6F7A85</item>
+    </style>
+</resources>

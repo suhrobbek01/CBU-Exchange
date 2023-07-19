@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="RoundedTabLayoutStyle" parent="Widget.Design.TabLayout">
+
+        <item name="tabSelectedTextColor">#7F7F7F</item>
+        <item name="tabTextColor">#BDBDBD</item>
+    </style>
+</resources>

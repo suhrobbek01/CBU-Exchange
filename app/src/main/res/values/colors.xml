@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="view_pager_background">#FAFAFA</color>
+
+    <color name="tab_selected_item_color">#141414</color>
+    <color name="tab_text_color">#FFFFFF</color>
+    <color name="background_white">#FFFFFF</color>
+    <color name="tab_indicator_color">#7F7F7F</color>
+    <color name="item_back">#FFFEFEFE</color>
+    <color name="item_text1_color">#888888</color>
+    <color name="item_text_color2">#3A3A3A</color>
+    <color name="item_text_color3">#A9A9A9</color>
+    <color name="dialog_background_white">#F9F9F9</color>
+    <color name="dialog_text1_color">#989898</color>
+    <color name="dialog_input_text_color">#5A5A5A</color>
+    <color name="dialig_box_stroke_color">#EBEBEB</color>
+    <color name="dialog_box_text_color">#B3B1B2</color>
+    <color name="dialog_line_color">#E9E9E9</color>
+    <color name="dialog_button_color">#04D8C2</color>
+    <color name="dialog_last_text_color">#8A8A8A</color>
+    <color name="lang_dialog_text1_color">#262626</color>
+    <color name="lang_dialog_lang123_color">#7A7A7A</color>
+</resources>

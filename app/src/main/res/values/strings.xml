@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CBU Exchange</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="language">eng</string>
+    <string name="tab1">Exchange rates</string>
+    <string name="tab2">Favourites</string>
+    <string name="dialog_input_text">Type here</string>
+    <string name="dialog_text2">Uzbekistam Sum</string>
+    <string name="select_language">Select language</string>
+
+</resources>

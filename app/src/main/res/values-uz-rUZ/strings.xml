@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CBU Exchange</string>
+    <string name="language">o`zb</string>
+    <string name="tab1">Valyuta kurslari</string>
+    <string name="tab2">Tanlanganlar</string>
+    <string name="dialog_input_text">Shu yerga kiriting</string>
+    <string name="dialog_text2">O`zbek so`mi</string>
+    <string name="select_language">Tilni tanlang</string>
+</resources>
